@@ -1,0 +1,19 @@
+# Env
+.env
+.env.local
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Bot data
+prototype/data/
+leads.db
+*.db
+
+# Editor/OS
+.DS_Store
+.idea/
+.vscode/
